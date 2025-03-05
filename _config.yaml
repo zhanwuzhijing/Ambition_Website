@@ -6,13 +6,13 @@ header: images/background.jpg
 header-video: images/bgvideo.mp4
 footer: images/background.jpg
 proofer: false
-slogan: 一往无前华科行，气壮山河狼牙名
+slogan: 梦以为剑，闯征四方！
 # site social media and other links
 links:
   email: 2633592212@qq.com
-  github: zhanwuzhijingDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  bilibili: "475402455"
-  wechat: https://mp.weixin.qq.com/s/Zrk4PRRGSimJG9bVDj3Zsg
+  github: https://github.com/orgs/SYLU-Ambition/repositories
+  bilibili: "702190823"
+  wechat: https://mp.weixin.qq.com/s/xaXiVIepfQzdxjrySahPrw
 ## jekyll settings
 
 # front matter defaults
