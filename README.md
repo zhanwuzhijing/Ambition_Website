@@ -3,4 +3,4 @@
 
 Visit **[zhanwuzhijing.github.io/Ambition_Website](https://zhanwuzhijing.github.io/Ambition_Website)** 🚀
 
-_Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
+_本项目基于 [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_构建
