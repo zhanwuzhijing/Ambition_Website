@@ -10,13 +10,13 @@ Ambition战队成立于2017。主要参加RoboMaster机甲大师全国大学生�
   type="docs"
   text="Bilibili"
   icon="fa-brands fa-bilibili"
-  link="https://space.bilibili.com/475402455"
+  link="https://space.bilibili.com/702190823"
 %}
 {%
   include button.html
   type="github"
   text="GitHub"
-  link="HUSTLYRM"
+  link="https://github.com/SYLU-Ambition/Ambition_Website"
 %}
 {%
   include button.html
