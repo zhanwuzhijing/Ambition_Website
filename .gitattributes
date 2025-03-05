@@ -1,0 +1,2 @@
+.docker/entrypoint.sh text eol=lf
+_data/citations.yaml text eol=lf
